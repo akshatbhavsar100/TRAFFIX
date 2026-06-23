@@ -1,17 +1,13 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+TRAFFIX - by: Akshat Bhavsar
 
-# Run and deploy your AI Studio app
+# Run and deploy
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/57fd33af-2ae3-4315-acfd-b35c7fac7c06
+CLick on the link to run the project:
+https://traffix-1042589077315.asia-southeast1.run.app
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
