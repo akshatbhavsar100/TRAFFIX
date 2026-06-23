@@ -1,0 +1,6 @@
+{
+  "name": "TRAFFIX",
+  "description": "Smart Edge AI for traffic violation resolution and analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
