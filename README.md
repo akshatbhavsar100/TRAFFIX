@@ -1,4 +1,10 @@
-TRAFFIX - by: Akshat Bhavsar
+<img width="771" height="283" alt="image" src="https://github.com/user-attachments/assets/8ca0a1f5-a7cf-4179-84bf-c628a2306ac1" />
+
+
+TRAFFIX : Real Time Computer Vision Traffic Violation Detection 
+& Documentation System
+
+By: Akshat Bhavsar
 
 # Run and deploy
 
